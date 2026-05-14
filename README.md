@@ -91,10 +91,10 @@ class PaulNerie:
 <!-- START:STATS -->
 | 📊 Stat | 🔢 Count |
 |--------|---------|
-| 🗂️ Public Repositories | **10** |
-| 👥 Followers | **0** |
+| 🗂️ Public Repositories | **12** |
+| 👥 Followers | **4** |
 | ⭐ Total Stars | **0** |
-| 💬 Languages Used | **7** |
+| 💬 Languages Used | **4** |
 | 🤝 Collaborations | **Multiple team projects** |
 <!-- END:STATS -->
 
@@ -113,7 +113,11 @@ class PaulNerie:
 <!-- START:ACTIVITY -->
 | 🔔 Event | 📁 Repository | 📝 Details | 📅 Date |
 |---------|-------------|---------|------|
-| — | No activity loaded yet — workflow will populate this | — | — |
+| 📝 Push | `ToyBitZ00/ToyBitZ00` | pushed | `2026-05-14` |
+| 📝 Push | `ToyBitZ00/ToyBitZ00` | pushed | `2026-05-14` |
+| 📝 Push | `ToyBitZ00/ToyBitZ00` | pushed | `2026-05-14` |
+| 📝 Push | `ToyBitZ00/ToyBitZ00` | pushed | `2026-05-14` |
+| 📝 Push | `ToyBitZ00/POS_System` | pushed | `2026-05-14` |
 <!-- END:ACTIVITY -->
 
 </div>
@@ -243,7 +247,7 @@ A personal portfolio website **built from scratch** using HTML, CSS, and JavaScr
 ![Visitor Count](https://komarev.com/ghpvc/?username=ToyBitZ00&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=TOTAL+VISITORS)
 
 <!-- START:UPDATED -->
-*🤖 Last auto-updated: **pending first workflow run***
+*🤖 Last auto-updated: **May 14, 2026 at 08:10 UTC***
 <!-- END:UPDATED -->
 
 </div>
