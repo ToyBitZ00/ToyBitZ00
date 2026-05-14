@@ -36,8 +36,8 @@ class PaulNerie:
     location   = "Philippines 🇵🇭"
     status     = "CS Student — Learning & Building"
     
-    languages  = ["Python", "Java", "C++", "C#", "HTML", "CSS", "JavaScript"]
-    databases  = ["MySQL", "SQLite"]
+    languages  = ["Python", "Java", "C++", "C#", "HTML", "CSS", "JavaScript", "PHP", "React", "Typescript"]
+    databases  = ["MySQL", "SQLite3"]
     tools      = ["CustomTkinter", "Tkinter", "VS Code", "Git", "GitHub"]
     
     focus      = ["Software Engineering", "Systems Design", "UI/UX"]
