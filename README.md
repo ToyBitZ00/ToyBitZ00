@@ -17,8 +17,8 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/ToyBitZ00?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github)](https://github.com/ToyBitZ00)
-[![GitHub repos](https://img.shields.io/badge/Public%20Repos-10-00d4ff?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/ToyBitZ00?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=ToyBitZ00&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/ToyBitZ00)
+[![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ToyBitZ00&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github)](https://github.com/ToyBitZ00?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=ToyBitZ00&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/ToyBitZ00)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&labelColor=0d1117)](https://www.facebook.com/paul.nerie.aguirre.2024/)
 
 </div>
@@ -36,8 +36,8 @@ class PaulNerie:
     location   = "Philippines 🇵🇭"
     status     = "CS Student — Learning & Building"
     
-    languages  = ["Python", "Java", "C++", "C#", "HTML", "CSS", "JavaScript", "PHP", "React", "Typescript"]
-    databases  = ["MySQL", "SQLite3"]
+    languages  = ["Python", "Java", "C++", "C#", "HTML", "CSS", "JavaScript"]
+    databases  = ["MySQL", "SQLite"]
     tools      = ["CustomTkinter", "Tkinter", "VS Code", "Git", "GitHub"]
     
     focus      = ["Software Engineering", "Systems Design", "UI/UX"]
@@ -78,7 +78,7 @@ class PaulNerie:
 
 ---
 
-## 🏆 GitHub Activity
+## 🏆 GitHub Stats
 
 <div align="center">
 
@@ -88,12 +88,33 @@ class PaulNerie:
 
 <div align="center">
 
+<!-- START:STATS -->
 | 📊 Stat | 🔢 Count |
 |--------|---------|
 | 🗂️ Public Repositories | **10** |
-| ⭐ Languages Used | **7** |
-| 📝 Commits (Café Project alone) | **67+** |
+| 👥 Followers | **0** |
+| ⭐ Total Stars | **0** |
+| 💬 Languages Used | **7** |
 | 🤝 Collaborations | **Multiple team projects** |
+<!-- END:STATS -->
+
+</div>
+
+<br>
+
+---
+
+## ⚡ Recent Activity
+
+> Auto-updated daily — shows your latest pushes, new repos, and more.
+
+<div align="center">
+
+<!-- START:ACTIVITY -->
+| 🔔 Event | 📁 Repository | 📝 Details | 📅 Date |
+|---------|-------------|---------|------|
+| — | No activity loaded yet — workflow will populate this | — | — |
+<!-- END:ACTIVITY -->
 
 </div>
 
@@ -219,6 +240,16 @@ A personal portfolio website **built from scratch** using HTML, CSS, and JavaScr
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d0d1a&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00d4ff&animation=twinkling&fontAlignY=65" />
+![Visitor Count](https://komarev.com/ghpvc/?username=ToyBitZ00&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=TOTAL+VISITORS)
 
+<!-- START:UPDATED -->
+*🤖 Last auto-updated: **pending first workflow run***
+<!-- END:UPDATED -->
+
+</div>
+
+<br>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d0d1a&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00d4ff&animation=twinkling&fontAlignY=65" />
 </div>
