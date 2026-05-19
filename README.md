@@ -102,14 +102,13 @@ class PaulNerie:
 <div align="center">
 
 <!-- START:STATS -->
-|  | Stat | Count |
-|:---:|:---|:---:|
-| 📁 | Public Repositories | **10** |
-| 👥 | GitHub Followers | **0** |
-| ⭐ | Total Stars Earned | **0** |
-| 🗣️ | Languages Used | **7** |
-| 📝 | Commits (Café project alone) | **67+** |
-| 🤝 | Team Collaborations | **Multiple** |
+| 📊 Stat | 🔢 Count |
+|--------|---------|
+| 🗂️ Public Repositories | **12** |
+| 👥 Followers | **4** |
+| ⭐ Total Stars | **0** |
+| 💬 Languages Used | **4** |
+| 🤝 Collaborations | **Multiple team projects** |
 <!-- END:STATS -->
 
 </div>
@@ -127,9 +126,13 @@ class PaulNerie:
 <div align="center">
 
 <!-- START:ACTIVITY -->
-| Event | Repository | Details | Date |
-|:---:|:---|:---|:---:|
-| ⏳ | Pending | Workflow will populate this on first run | — |
+| 🔔 Event | 📁 Repository | 📝 Details | 📅 Date |
+|---------|-------------|---------|------|
+| 📝 Push | `ToyBitZ00/ToyBitZ00` | pushed | `2026-05-19` |
+| 📝 Push | `ToyBitZ00/POS_System` | pushed | `2026-05-19` |
+| 📝 Push | `ToyBitZ00/POS_System` | pushed | `2026-05-18` |
+| 📝 Push | `ToyBitZ00/POS_System` | pushed | `2026-05-18` |
+| 📝 Push | `ToyBitZ00/POS_System` | pushed | `2026-05-18` |
 <!-- END:ACTIVITY -->
 
 </div>
@@ -282,7 +285,7 @@ A portfolio website **built from scratch** — showcasing frontend skills and se
 <br><br>
 
 <!-- START:UPDATED -->
-`🤖 Last auto-updated: pending first workflow run`
+*🤖 Last auto-updated: **May 19, 2026 at 06:14 UTC***
 <!-- END:UPDATED -->
 
 </div>
