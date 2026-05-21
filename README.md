@@ -104,7 +104,7 @@ class PaulNerie:
 <!-- START:STATS -->
 | 📊 Stat | 🔢 Count |
 |--------|---------|
-| 🗂️ Public Repositories | **12** |
+| 🗂️ Public Repositories | **14** |
 | 👥 Followers | **4** |
 | ⭐ Total Stars | **0** |
 | 💬 Languages Used | **4** |
@@ -128,11 +128,11 @@ class PaulNerie:
 <!-- START:ACTIVITY -->
 | 🔔 Event | 📁 Repository | 📝 Details | 📅 Date |
 |---------|-------------|---------|------|
+| 📝 Push | `ToyBitZ00/Learning-HTML--Javascript--CSS` | pushed | `2026-05-20` |
+| 📝 Push | `ToyBitZ00/Learning-HTML--Javascript--CSS` | pushed | `2026-05-20` |
+| ✨ Created branch | `ToyBitZ00/Learning-HTML--Javascript--CSS` | `main` | `2026-05-20` |
 | 📝 Push | `ToyBitZ00/POS_System` | pushed | `2026-05-19` |
 | 📝 Push | `ToyBitZ00/POS_System` | pushed | `2026-05-19` |
-| 📝 Push | `ToyBitZ00/POS_System` | pushed | `2026-05-19` |
-| 📝 Push | `ToyBitZ00/POS_System` | pushed | `2026-05-19` |
-| 📝 Push | `ToyBitZ00/ToyBitZ00` | pushed | `2026-05-19` |
 <!-- END:ACTIVITY -->
 
 </div>
@@ -285,7 +285,7 @@ A portfolio website **built from scratch** — showcasing frontend skills and se
 <br><br>
 
 <!-- START:UPDATED -->
-*🤖 Last auto-updated: **May 20, 2026 at 02:12 UTC***
+*🤖 Last auto-updated: **May 21, 2026 at 02:12 UTC***
 <!-- END:UPDATED -->
 
 </div>
