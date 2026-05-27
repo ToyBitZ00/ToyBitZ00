@@ -104,7 +104,7 @@ class PaulNerie:
 <!-- START:STATS -->
 | 📊 Stat | 🔢 Count |
 |--------|---------|
-| 🗂️ Public Repositories | **14** |
+| 🗂️ Public Repositories | **13** |
 | 👥 Followers | **4** |
 | ⭐ Total Stars | **0** |
 | 💬 Languages Used | **4** |
@@ -285,7 +285,7 @@ A portfolio website **built from scratch** — showcasing frontend skills and se
 <br><br>
 
 <!-- START:UPDATED -->
-*🤖 Last auto-updated: **May 26, 2026 at 02:10 UTC***
+*🤖 Last auto-updated: **May 27, 2026 at 02:29 UTC***
 <!-- END:UPDATED -->
 
 </div>
