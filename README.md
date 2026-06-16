@@ -116,22 +116,13 @@ print(paul.motto())
 <div align="center">
 
 <!-- START:STATS -->
-<table>
-  <thead>
-    <tr>
-      <th align="left">&nbsp;&nbsp;Metric</th>
-      <th align="center">Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>📁 &nbsp;Public Repositories</td><td align="center"><b>10</b></td></tr>
-    <tr><td>👥 &nbsp;Followers</td><td align="center"><b>4</b></td></tr>
-    <tr><td>⭐ &nbsp;Total Stars Earned</td><td align="center"><b>0</b></td></tr>
-    <tr><td>🗣️ &nbsp;Languages Used</td><td align="center"><b>7+</b></td></tr>
-    <tr><td>📝 &nbsp;Commits (Café project alone)</td><td align="center"><b>67+</b></td></tr>
-    <tr><td>🤝 &nbsp;Active Collaborations</td><td align="center"><b>2</b></td></tr>
-  </tbody>
-</table>
+| 📊 Stat | 🔢 Count |
+|--------|---------|
+| 🗂️ Public Repositories | **13** |
+| 👥 Followers | **4** |
+| ⭐ Total Stars | **0** |
+| 💬 Languages Used | **4** |
+| 🤝 Collaborations | **Multiple team projects** |
 <!-- END:STATS -->
 
 </div>
@@ -149,9 +140,13 @@ print(paul.motto())
 <div align="center">
 
 <!-- START:ACTIVITY -->
-| &nbsp;Event | Repository | Details | Date |
-|:---:|:---|:---|:---:|
-| ⏳ | Pending | Workflow populates this on first run | — |
+| 🔔 Event | 📁 Repository | 📝 Details | 📅 Date |
+|---------|-------------|---------|------|
+| 📝 Push | `ToyBitZ00/ToyBitZ00` | pushed | `2026-06-16` |
+| 📝 Push | `ToyBitZ00/Learning-HTML--Javascript--CSS` | pushed | `2026-05-20` |
+| 📝 Push | `ToyBitZ00/Learning-HTML--Javascript--CSS` | pushed | `2026-05-20` |
+| ✨ Created branch | `ToyBitZ00/Learning-HTML--Javascript--CSS` | `main` | `2026-05-20` |
+| 📝 Push | `ToyBitZ00/POS_System` | pushed | `2026-05-19` |
 <!-- END:ACTIVITY -->
 
 </div>
@@ -367,7 +362,7 @@ A **civic technology desktop app** for local government officials in San Miguel,
 <br><br>
 
 <!-- START:UPDATED -->
-`🤖 last auto-updated: pending first workflow run`
+*🤖 Last auto-updated: **June 16, 2026 at 09:10 UTC***
 <!-- END:UPDATED -->
 
 </div>
