@@ -198,53 +198,10 @@ The platform is **subscription-driven** — users onboard through the main landi
 | 🔥 **Firebase Backend** | Real-time database, authentication, and cloud functions *(in progress)* |
 
 </details>
-
 [![View Repository](https://img.shields.io/badge/View_on_GitHub-020818?style=flat-square&logo=github&logoColor=white)](https://github.com/EroJMP/payroll-system-efiles)
-
 <br>
-
----
-
-### 🏢 &nbsp;`BidaBoss HRMS` — SuperAdmin Portal &nbsp; [![Active](https://img.shields.io/badge/●_ACTIVE-020818?style=flat-square&color=052e16&labelColor=052e16)](https://github.com/ToyBitZ00)
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-020818?style=flat-square&logo=nextdotjs&logoColor=60A5FA)
-![Supabase](https://img.shields.io/badge/Supabase-020818?style=flat-square&logo=supabase&logoColor=60A5FA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020818?style=flat-square&logo=postgresql&logoColor=60A5FA)
-![Status](https://img.shields.io/badge/Status-In_Progress-020818?style=flat-square&logoColor=4ade80)
-![Role](https://img.shields.io/badge/Role-Frontend_Developer_Intern-020818?style=flat-square&logoColor=f59e0b)
-
 </div>
-
-> 💼 **Internship Project** · BidaBoss · Next.js + Supabase + PostgreSQL
-
-A **real-world client HRMS** built during my internship at BidaBoss. I own the SuperAdmin Portal — the highest-privilege tier — responsible for managing all companies, users, billing, and system-wide configuration across the platform.
-
-<details>
-<summary>&nbsp;&nbsp;<b>View Modules Built</b></summary>
 <br>
-
-| Module | What I Built |
-|:---|:---|
-| 🏠 **Dashboard** | KPI overview with system-wide analytics and activity summaries |
-| 🏢 **Company Management** | CRUD for multi-tenant company accounts with status controls |
-| 👤 **User Management** | Role-based user listing with search, filters, and access controls |
-| 📄 **Document Vault** | File storage system with per-company storage cap configuration |
-| 🎧 **Customer Support** | Ticket management module with wiring and status workflows |
-| 💰 **Task & Billings** | Billing tracker and task assignment across client accounts |
-| 📋 **Pricing Plans** | Plan tier configuration with feature toggling |
-| 📅 **Schedules** | Calendar and scheduling module for HR workflows |
-| 🔒 **Role Module Access** | Fine-grained access control per role and module |
-| 📊 **Audit Logs** | Searchable system-wide event logs with filter layout |
-| ⚙️ **System Settings** | Global configuration panel for platform-level preferences |
-
-</details>
-
-> 🔒 Private repository — active client project
-
-<br>
-
 ---
 
 > ### 📦 &nbsp;Personal & Academic Projects
