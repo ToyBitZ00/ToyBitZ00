@@ -41,15 +41,15 @@ class PaulNerie:
 
         self.stack = {
             "languages"  : ["Python", "Java", "C++", "C#", "JavaScript", "HTML", "CSS"],
-            "frameworks" : ["Next.js", "Node.js", "React", "CustomTkinter"],
-            "databases"  : ["Firebase", "PostgreSQL", "MySQL", "SQLite"],
-            "tools"      : ["Supabase", "Git", "GitHub", "VS Code", "Cursor"],
+            "frameworks" : ["Next.js", "Node.js", "React"],
+            "databases"  : ["Firebase", "Supabase", "PostgreSQL", "MySQL", "SQLite"],
+            "tools"      : ["Git", "GitHub", "VS Code", "Cursor"],
         }
 
         self.currently = [
             "Co-developing a SaaS HRMS platform (Node.js + Firebase)",
-            "Interning @ BidaBoss — building a SuperAdmin HRMS portal",
-            "Working with Next.js + Supabase + PostgreSQL daily",
+            "Experienced real-world projects @ BidaBoss — building a SuperAdmin HRMS portal",
+            "Working with Next.js + Supabase + PostgreSQL frequently",
         ]
 
     def motto(self) -> str:
